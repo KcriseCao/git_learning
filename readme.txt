@@ -10,3 +10,5 @@ test03
 test04
 ---------------------------202011262034
 branch dev
+---------------------------
+Creating a new branch is quick & simple.
